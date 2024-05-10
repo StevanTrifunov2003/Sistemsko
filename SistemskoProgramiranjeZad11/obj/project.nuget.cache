@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FEgCdG0KVuVtYHMMehkxgIOD2CCmrHSgFUVKgjWPXYXKn6sxZu+YIp7/+19aiL5pVxam3KJ8TS2IzDpxEN0eNg==",
+  "success": false,
+  "projectFilePath": "D:\\sp\\projekat\\SistemskoProgramiranjeZad11\\SistemskoProgramiranjeZad11\\SistemskoProgramiranjeZad11.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "System.Drawing.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Newtonsoft.Json"
+    }
+  ]
+}
